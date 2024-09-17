@@ -1,7 +1,7 @@
 noun = input('Noun: ')
-verb = input()
-noun2 = input()
-verb2 = 
-verb3 = 
+verb = input('Verb: ')
+noun2 = input('Noun: ')
+verb2 = input('Verb: ')
+verb3 = input('Verb: ')
 
 madlibs = "In a galaxy not so far away, '' was '' on planet kanassa when they saw a ''. they were immediately '' and started '' away gracefully"
