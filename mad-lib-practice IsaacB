@@ -4,4 +4,5 @@ noun2 = input('Noun: ')
 verb2 = input('Verb: ')
 verb3 = input('Verb: ')
 
-madlibs = "In a galaxy not so far away, '' was '' on planet kanassa when they saw a ''. they were immediately '' and started '' away gracefully"
+
+print('In a galaxy not so far away, ' + noun + ' was ' + verb + ' on planet kanassa when they saw a ' + noun2 + '. they were immediately ' + verb2 + ' and ' + verb3 + ' away gracefully')
